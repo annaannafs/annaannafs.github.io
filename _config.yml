@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anna M. Suliga"
   avatar           : "me.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD fellow at the  Niels Bohr Institute"
   location         : "Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Ania.Fasolka"
+  twitter          : "AniaFasolka"
   vine             :
   weibo            :
   xing             :
