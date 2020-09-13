@@ -14,9 +14,10 @@ author_profile: true
 2. [Tau lepton asymmetry by sterile neutrino emission -- Moving beyond one-zone supernova models](https://inspirehep.net/literature/1751959), JCAP 12 (2019) 019
 1. [Measuring the supernova unknowns at the next-generation neutrino telescopes through the diffuse neutrino background](https://inspirehep.net/literature/1667039), JCAP 05 (2018) 066
 
-
+<!---
 #{% include base_path %}
 
 #{% for post in site.publications reversed %}
 #  {% include archive-single.html %}
 #{% endfor %}
+-->
