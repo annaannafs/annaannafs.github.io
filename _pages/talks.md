@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-**Scientific presentations/seminars**
 
 Upcoming talks:
 =====
