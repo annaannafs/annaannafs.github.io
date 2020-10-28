@@ -10,9 +10,9 @@ author_profile: true
 {% endif %}
 
 
-3. [Lifting the core-collapse supernova bounds on keV-mass sterile neutrinos](https://inspirehep.net/literature/1792755), JCAP 08 (2020) 018
-2. [Tau lepton asymmetry by sterile neutrino emission -- Moving beyond one-zone supernova models](https://inspirehep.net/literature/1751959), JCAP 12 (2019) 019
-1. [Measuring the supernova unknowns at the next-generation neutrino telescopes through the diffuse neutrino background](https://inspirehep.net/literature/1667039), JCAP 05 (2018) 066
+3. Anna M. Suliga, Irene Tamborra, and Meng-Ru Wu, [Lifting the core-collapse supernova bounds on keV-mass sterile neutrinos](https://inspirehep.net/literature/1792755), JCAP 08 (2020) 018
+2. Anna M. Suliga, Irene Tamborra, and Meng-Ru Wu, [Tau lepton asymmetry by sterile neutrino emission -- Moving beyond one-zone supernova models](https://inspirehep.net/literature/1751959), JCAP 12 (2019) 019
+1. Klaes Moller, Anna M. Suliga, Irene Tamborra, and Peter B. Denton, [Measuring the supernova unknowns at the next-generation neutrino telescopes through the diffuse neutrino background](https://inspirehep.net/literature/1667039), JCAP 05 (2018) 066
 
 <!---
 #{% include base_path %}
