@@ -6,14 +6,18 @@ author_profile: true
 ---
 
 
-
+<!---
 Upcoming talks:
 =====
-* Astrophysical constraints on non-standard coherent neutrino-nucleus scattering <br/>
-	Virtual Seminar, Center for Cosmology and Astroparticle Physics, Columbus, Ohio; November 2020
+* 
+--->
+
+
 
 Invited talks:
 ======
+5. [Astrophysical constraints on non-standard coherent neutrino-nucleus scattering](https://annaannafs.github.io/files/Suliga_CCAPP.pdf) <br/>
+	Virtual Seminar, Center for Cosmology and Astroparticle Physics, Columbus, Ohio; November 2020
 4. [The impact of keV sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/BNL_Suliga.pdf)<br/>
 	Invited talk, Brookhaven Neutrino Theory Virtual Seminar, Brookhaven National Laboratory, Upton, New York; July 2020
 3. [The impact of keV sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/VT_Suliga.pdf)<br/>
