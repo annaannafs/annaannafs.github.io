@@ -13,7 +13,6 @@ Upcoming talks:
 --->
 
 
-
 Invited talks:
 ======
 5. [Astrophysical constraints on non-standard coherent neutrino-nucleus scattering](https://annaannafs.github.io/files/Suliga_CCAPP.pdf) <br/>
