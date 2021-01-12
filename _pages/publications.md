@@ -9,8 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-5. Anna M. Suliga, Shashank Shalgar, and George M. Fuller, [:wq
-](https://inspirehep.net/literature/1826617), arXiv: 2010.14545 
+5. Anna M. Suliga, Shashank Shalgar, and George M. Fuller, [A closer look at the pp-chain reaction in the Sun: Constraining the coupling of light mediators to protons](https://inspirehep.net/literature/1837832), arXiv: 2012.11620  
 4. Anna M. Suliga, and Irene Tamborra, [Astrophysical constraints on non-standard coherent neutrino-nucleus scattering](https://inspirehep.net/literature/1826617), arXiv: 2010.14545 
 3. Anna M. Suliga, Irene Tamborra, and Meng-Ru Wu, [Lifting the core-collapse supernova bounds on keV-mass sterile neutrinos](https://inspirehep.net/literature/1792755), JCAP 08 (2020) 018
 2. Anna M. Suliga, Irene Tamborra, and Meng-Ru Wu, [Tau lepton asymmetry by sterile neutrino emission -- Moving beyond one-zone supernova models](https://inspirehep.net/literature/1751959), JCAP 12 (2019) 019
