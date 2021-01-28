@@ -15,7 +15,7 @@ Upcoming talks:
 
 Invited talks:
 ======
-7. [Physics beyond the Standard Model in astrophysical environments](https://annaannafs.github.io/files/Suliga_india.pdf) <br/>
+7. [Physics beyond the Standard Model in astrophysical environments](https://annaannafs.github.io/files/Suliga_IISc.pdf) <br/>
 	Pheno coffee CHEP, Centre for High Energy Physics, Indian Institute of Science, Bangalore, India; January 2021
 6. The impact of keV sterile neutrinos on core-collapse supernovae <br/>
 	Virtual Seminar for Cosmology group, Perimeter Institute, Waterloo, Canada; December 2020
