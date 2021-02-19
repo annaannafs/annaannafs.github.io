@@ -34,6 +34,8 @@ Invited talks:
 
 Contributed talks:
 ======
+6. [The impact of keV sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/XIX_Neutrino_Telescopes.pdf)<br/>
+	XIX International Workshop on Neutrino Telescopes, University of Padova, Italy; February 2021
 5. [The impact of keV sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/Anna_Suliga_lesson.pdf)<br/>
 	Transient Tuesday, DARK, Neils Bohr Institute, Denmark; April 2020
 4. [Determining supernova unknowns with the diffuse supernova neutrino background](https://annaannafs.github.io/files/Suliga_Trento.pdf)<br/>
