@@ -15,12 +15,16 @@ Upcoming talks:
 
 Invited talks:
 ======
+9. [Physics beyond the Standard Model in astrophysical environments](https://annaannafs.github.io/files/TEPAPP.pdf) <br/>
+	Virtual seminar, Theory of Elementary Particles, Astroparticle Physics, and Phenomenology, University of California Los Angeles, USA; April 2021
+8. [Physics beyond the Standard Model in astrophysical environments](https://annaannafs.github.io/files/CASS.pdf) <br/>
+	Virtual Journal Club, Center for Astrophysics and Space Sciences, University of California San Diego, USA; April 2021
 7. [Physics beyond the Standard Model in astrophysical environments](https://annaannafs.github.io/files/Suliga_IISc.pdf) <br/>
 	Pheno coffee CHEP, Centre for High Energy Physics, Indian Institute of Science, Bangalore, India; January 2021
 6. The impact of keV sterile neutrinos on core-collapse supernovae <br/>
-	Virtual Seminar for Cosmology group, Perimeter Institute, Waterloo, Canada; December 2020
+	Virtual seminar for Cosmology group, Perimeter Institute, Waterloo, Canada; December 2020
 5. [Astrophysical constraints on non-standard coherent neutrino-nucleus scattering](https://annaannafs.github.io/files/Suliga_CCAPP.pdf) <br/>
-	Virtual Seminar, Center for Cosmology and Astroparticle Physics, Columbus, Ohio; November 2020
+	Virtual seminar, Center for Cosmology and Astroparticle Physics, Columbus, Ohio; November 2020
 4. [The impact of keV sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/BNL_Suliga.pdf)<br/>
 	Invited talk, Brookhaven Neutrino Theory Virtual Seminar, Brookhaven National Laboratory, Upton, New York; July 2020
 3. [The impact of keV sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/VT_Suliga.pdf)<br/>
