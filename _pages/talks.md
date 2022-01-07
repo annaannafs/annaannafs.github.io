@@ -15,6 +15,8 @@ Upcoming talks:
 
 Invited talks:
 ======
+10. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/INT-Suliga.pdf) <br/>
+	INT Virtual Workshop: New Directions in Neutrino Flavor Evolution in Astrophysical Systems, Institute of Nuclear Theory, University of Washington, USA; September 2021
 9. [Physics beyond the Standard Model in astrophysical environments](https://annaannafs.github.io/files/TEPAPP.pdf) <br/>
 	Virtual seminar, Theory of Elementary Particles, Astroparticle Physics, and Phenomenology, University of California Los Angeles, USA; April 2021
 8. [Physics beyond the Standard Model in astrophysical environments](https://annaannafs.github.io/files/CASS.pdf) <br/>
@@ -38,7 +40,11 @@ Invited talks:
 
 Contributed talks:
 ======
-6. [The impact of keV sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/XIX_Neutrino_Telescopes.pdf)<br/>
+8. [A Closer Look at the pp-chain reaction in the Sun](https://annaannafs.github.io/files/AstroDark-Suliga.pdf)<br/>
+	AstroDark-2021, Institute for the Physics and Mathematics of the Universe, Japan; December 2021
+7. [Astrophysical constraints on the non-standard coherent neutrino-nucleus scattering](https://annaannafs.github.io/files/Suliga_EuCAPT.pdf)<br/>
+	The European Consortium for Astroparticle Theory, CERN, Switzerland; May 2021
+6. [A Closer Look at the pp-chain reaction in the Sun](https://annaannafs.github.io/files/XIX_Neutrino_Telescopes.pdf)<br/>
 	XIX International Workshop on Neutrino Telescopes, University of Padova, Italy; February 2021
 5. [The impact of keV sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/Anna_Suliga_lesson.pdf)<br/>
 	Transient Tuesday, DARK, Neils Bohr Institute, Denmark; April 2020
