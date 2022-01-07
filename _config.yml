@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Anna M. Suliga"
   avatar           : "me.png"
-  bio              : "PhD fellow at the  Niels Bohr Institute"
-  location         : "Denmark"
+  bio              : "Postdoctoral fellow with N3AS"
+  location         : "US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : anna.suliga@nbi.ku.dk
+  email            : asuliga@berkeley.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
