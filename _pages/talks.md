@@ -15,6 +15,8 @@ Upcoming talks:
 
 Invited talks:
 ======
+11. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/DMNF-Suliga.pdf) <br/>
+	Dark matter and neutrino forum: NINPAC/TDLI of Shanghai Jiao Tong University, China; February 2021
 10. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/INT-Suliga.pdf) <br/>
 	INT Virtual Workshop: New Directions in Neutrino Flavor Evolution in Astrophysical Systems, Institute of Nuclear Theory, University of Washington, USA; September 2021
 9. [Physics beyond the Standard Model in astrophysical environments](https://annaannafs.github.io/files/TEPAPP.pdf) <br/>
