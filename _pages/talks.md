@@ -15,12 +15,18 @@ Upcoming talks:
 
 Invited talks:
 ======
-13. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/Suliga_Mainz.pdf) <br/>
-	 MITP Virtual Workshop “Feebly Interacting Sectors Impact on Cosmology & Astrophysics, Germany; March 2022
-12. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/Suliga_AU.pdf) <br/>
+16. [The effects of sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
+	 Seeminar at CASS/UCSD, San Diego, USA; April 2022
+15. [The effects of sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/Suliga-KITP.pdf) <br/>
+	 KITP Conference “Interdisciplinary Developments in Neutrino Physics", Santa Barbara, USA; March 2022
+14. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/Suliga_Mainz.pdf) <br/>
+	 MITP Virtual Workshop “Feebly Interacting Sectors Impact on Cosmology & Astrophysics", Germany; March 2022
+13. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/Suliga_AU.pdf) <br/>
 	Sydney Consortium for Particle Physics and Cosmology, Australia; February 2022
-11. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/DMNF-Suliga.pdf) <br/>
+12. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/DMNF-Suliga.pdf) <br/>
 	Dark matter and neutrino forum: NINPAC/TDLI of Shanghai Jiao Tong University, China; February 2022
+11. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/Suliga_Astrolunch.pdf) <br/>
+	OSU CCAPP Astrolunch, USA; January 2022	
 10. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/INT-Suliga.pdf) <br/>
 	INT Virtual Workshop: New Directions in Neutrino Flavor Evolution in Astrophysical Systems, Institute of Nuclear Theory, University of Washington, USA; September 2021
 9. [Physics beyond the Standard Model in astrophysical environments](https://annaannafs.github.io/files/TEPAPP.pdf) <br/>
@@ -46,6 +52,8 @@ Invited talks:
 
 Contributed talks:
 ======
+9. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/AstroDark-Suliga.pdf)<br/>
+	Snowmass Joint Workshop on New Physics Opportunities with Neutrino Experiments: Theoretical & Experimental Perspectives, University of Pittsburgh, USA; February 2022
 8. [A Closer Look at the pp-chain reaction in the Sun](https://annaannafs.github.io/files/AstroDark-Suliga.pdf)<br/>
 	AstroDark-2021, Institute for the Physics and Mathematics of the Universe, Japan; December 2021
 7. [Astrophysical constraints on the non-standard coherent neutrino-nucleus scattering](https://annaannafs.github.io/files/Suliga_EuCAPT.pdf)<br/>
