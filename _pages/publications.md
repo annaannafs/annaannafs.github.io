@@ -8,6 +8,13 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+13. Pooja Siwach, Anna M. Suliga, A. Baha Balantekin, [Entanglement in three-flavor collective neutrino oscillations](https://inspirehep.net/literature?q=find%20eprint%202211.07678), Phys. Rev. D 107, 023019 (2023)
+12. Tetyana Pitik, Daniel Heimsoth, Anna M. Suliga, A. B. Balantekin, [Exploiting stellar explosion induced by the QCD phase transition in large-scale neutrino detectors](https://inspirehep.net/literature?q=find%20eprint%202208.14469), Phys. Rev. D 106, 103007 (2022)
+11. Anna M. Suliga, [Diffuse supernova neutrino background](https://inspirehep.net/literature?q=find%20eprint%202207.09632), Handbook of Nuclear Physics, Springer Nature Singapore, 2020
+10. Joshua J. Ziegler, Thomas D. P. Edwards, Anna M. Suliga, Irene Tamborra, Shunsaku Horiuchi, Shin'ichiro Ando, Katherine Freese, [Non-Universal Stellar Initial Mass Functions: Large Uncertainties in Star Formation Rates at z≈2−4 and Other Astrophysical Probes](https://inspirehep.net/literature?q=find%20eprint%202205.07845), MNRAS 517, 2471 (2022)
+9. C. A. Arguelles et al., [Snowmass White Paper: Beyond the Standard Model effects on Neutrino Flavor](https://inspirehep.net/literature?q=find%20eprint%202203.10811), The European Physical Journal C volume 83, Article number: 15 (2023)
+8. Kevork N. Abazajian et al. [Synergy between cosmological and laboratory searches in neutrino physics: a white paper](https://inspirehep.net/literature?q=find%20eprint%202203.07377), arxiv: 2203.07377
+7. J Aalbers et al., [A Next-Generation Liquid Xenon Observatory for Dark Matter and Neutrino Physics](https://inspirehep.net/literature?q=find%20eprint%202203.02309), J. Phys. G: Nucl. Part. Phys. 50 013001
 6. Anna M. Suliga, John. F. Beacom, and Irene Tamborra, [Towards Probing the Diffuse Supernova Neutrino Background in All Flavors](https://inspirehep.net/literature/1992973), Phys. Rev. D 105 (2022) 043008
 5. Anna M. Suliga, Shashank Shalgar, and George M. Fuller, [A closer look at the pp-chain reaction in the Sun: Constraining the coupling of light mediators to protons](https://inspirehep.net/literature/1837832), JCAP 07 (2021) 042
 4. Anna M. Suliga, and Irene Tamborra, [Astrophysical constraints on non-standard coherent neutrino-nucleus scattering](https://inspirehep.net/literature/1826617), Phys. Rev. D 103 (2021) 083002 
