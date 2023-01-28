@@ -15,8 +15,19 @@ Upcoming talks:
 
 Invited talks:
 ======
+17. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://physics.wustl.edu/events/physics-theory-seminar-anna-suliga-supernovae-probes-neutrino-physics) Seminar at Washington University in St. Louis, USA, December 2022
+21. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
+	Seminar at the YITP, Stony Brook University, USA, November 2022
+21. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
+	Seminar at the Brookhaven National Laboratory, USA, November 2022
+20. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
+	Talk at the Neutrino Oscillation Workshop 2022, Ostuni, Italy, September 2022
+19. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
+	Talk at the Dark Matter in Compact Objects, Stars, and in Low Energy Experiments, Institute for Nuclear Theory, Seattle, US, August 2022
+17. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
+	Talk at the Neutrino Theory Network Workshop, Fermi National Accelerator Laboratory, Batavia, USA, June 2022
 16. [The effects of sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
-	 Seeminar at CASS/UCSD, San Diego, USA; April 2022
+	 Seminar at CASS/UCSD, San Diego, USA; April 2022
 15. [The effects of sterile neutrinos on core-collapse supernovae](https://annaannafs.github.io/files/Suliga-KITP.pdf) <br/>
 	 KITP Conference “Interdisciplinary Developments in Neutrino Physics", Santa Barbara, USA; March 2022
 14. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/Suliga_Mainz.pdf) <br/>
@@ -52,6 +63,8 @@ Invited talks:
 
 Contributed talks:
 ======
+10. [Exploiting stellar explosion induced by the QCD phase transition in large-scale neutrino detectors](https://annaannafs.github.io/files/AstroDark-Suliga.pdf)<br/>
+	14th Conference on the Intersections of Particle and Nuclear Physics (CIPANP 2022), Lake Buena Vista, USA
 9. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/AstroDark-Suliga.pdf)<br/>
 	Snowmass Joint Workshop on New Physics Opportunities with Neutrino Experiments: Theoretical & Experimental Perspectives, University of Pittsburgh, USA; February 2022
 8. [A Closer Look at the pp-chain reaction in the Sun](https://annaannafs.github.io/files/AstroDark-Suliga.pdf)<br/>
