@@ -15,7 +15,8 @@ Upcoming talks:
 
 Invited talks:
 ======
-17. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://physics.wustl.edu/events/physics-theory-seminar-anna-suliga-supernovae-probes-neutrino-physics) Seminar at Washington University in St. Louis, USA, December 2022
+17. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://physics.wustl.edu/events/physics-theory-seminar-anna-suliga-supernovae-probes-neutrino-physics) <br/> 
+    Seminar at Washington University in St. Louis, USA, December 2022
 21. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
 	Seminar at the YITP, Stony Brook University, USA, November 2022
 21. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
