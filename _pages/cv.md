@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/CV_Anna_Suliga.pdf
+permalink: /files/CV-Anna-Suliga.pdf
 author_profile: true
 redirect_from:
   - /resume
