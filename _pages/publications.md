@@ -8,6 +8,10 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+17. A. Baha Balantekin and Anna M. Suliga [On the properties of qudits](https://inspirehep.net/literature/2789188), Eur.Phys.J.A 60 (2024) 124
+16. A. Baha Balantekin, George M. Fuler, Anupam Ray, Anna M. Suliga [Probing self-interacting sterile neutrino dark matter with the diffuse supernova neutrino background](https://inspirehep.net/literature/2708784), Phys. Rev. D 108, 123011 (2023)
+15. Anna M. Suliga and John F. Beacom [Distinctive nuclear signatures of low-energy atmospheric neutrinos](https://inspirehep.net/literature/2669859), Phys. Rev. D 108, 043035 (2023)
+14. Daniel J. Heimsoth, Brandon Lem, Anna M. Suliga, A. Baha Balantekin,  Calvin W. Johnson, Susan N. Coppersmith [Uncertainties on the EFT coupling limits for direct dark matter detection experiments stemming from uncertainties of target properties](https://inspirehep.net/literature/2660198), Phys. Rev. D 108, 103031 (2023)
 13. Pooja Siwach, Anna M. Suliga, A. Baha Balantekin, [Entanglement in three-flavor collective neutrino oscillations](https://inspirehep.net/literature?q=find%20eprint%202211.07678), Phys. Rev. D 107, 023019 (2023)
 12. Tetyana Pitik, Daniel Heimsoth, Anna M. Suliga, A. B. Balantekin, [Exploiting stellar explosion induced by the QCD phase transition in large-scale neutrino detectors](https://inspirehep.net/literature?q=find%20eprint%202208.14469), Phys. Rev. D 106, 103007 (2022)
 11. Anna M. Suliga, [Diffuse supernova neutrino background](https://inspirehep.net/literature?q=find%20eprint%202207.09632), Handbook of Nuclear Physics, Springer Nature Singapore, 2020
