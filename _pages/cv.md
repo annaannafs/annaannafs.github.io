@@ -11,5 +11,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my current CV under this link [CV](https://annaannafs.github.io/files/CV_Anna_Suliga.pdf).
+You can find my current CV under this link [CV](https://annaannafs.github.io/files/CV-Anna-Suliga.pdf).
 
