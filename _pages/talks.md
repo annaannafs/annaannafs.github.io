@@ -15,9 +15,27 @@ Upcoming talks:
 
 Invited talks:
 ======
-17. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://physics.wustl.edu/events/physics-theory-seminar-anna-suliga-supernovae-probes-neutrino-physics) <br/> 
+
+
+30. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://meetings.aps.org/Meeting/DNP24/Session/P06) <br/>
+    Talk at the 2024 Division of Nucelar Physics APS Fall Meeting, Boston, USA, October 2024
+29. [Probing self-interacting sterile neutrino dark matter with the diffuse supernova neutrino background](https://indico.fnal.gov/event/63406/contributions/297915/attachments/181753/249336/Suliga.pdf) <br/>
+    Talk at the NuFACT 2024, Argonne National Laboratory, USA, September 2024 
+28. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](1) <br/>
+    Virtual Seminar, Tsung-Dao Lee Institute in Shanghai, China, August 2024
+27. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://app.icerm.brown.edu/assets/468/7303/7303_4630_Suliga_071120241400_Slides.pdf) <br/>
+    Talk at the workshop Solving the Boltzmann Equation for Neutrino Transport in Relativistic Astrophysics, ICERM, Providence, USA, July 2024
+26. [Probing self-interacting sterile neutrino dark matter with the diffuse supernova neutrino background](https://indico.sanfordlab.org/event/69/contributions/1425/attachments/875/2170/Suliga.pdf)<br/>
+    Talk at the workshop CETUP, Lead, South Dakota, USA, July 2024        
+25. [Strategies for detecting low-energy neutrino fluxes](1) <br/>
+    Seminar, KEK Theory Center, Tskuba, Japan, June 2024    
+24. [Exploiting stellar explosion induced by the QCD phase transition in large-scale neutrino detectors](https://physics.wustl.edu/events/physics-theory-seminar-anna-suliga-supernovae-probes-neutrino-physics) <br/> 
+    NPAC Seminar, University of Wisconsin-Madison, Madison, USA, February 2023
+24. [Exploiting stellar explosion induced by the QCD phase transition in large-scale neutrino detectors](https://physics.wustl.edu/events/physics-theory-seminar-anna-suliga-supernovae-probes-neutrino-physics) <br/> 
+    NPAC Seminar, University of Wisconsin-Madison, Madison, USA, February 2023
+23. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://physics.wustl.edu/events/physics-theory-seminar-anna-suliga-supernovae-probes-neutrino-physics) <br/> 
     Seminar at Washington University in St. Louis, USA, December 2022
-21. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
+22. [Neutrino physics beyond the Standard Model in core-collapse supernovae](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
 	Seminar at the YITP, Stony Brook University, USA, November 2022
 21. [Towards probing the diffuse supernova neutrino background in all flavors](https://annaannafs.github.io/files/Suliga-CASS-UCSD.pdf) <br/>
 	Seminar at the Brookhaven National Laboratory, USA, November 2022
