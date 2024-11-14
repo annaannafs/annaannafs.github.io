@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Anna M. Suliga"
   avatar           : "me.png"
-  bio              : "Postdoctoral fellow with N3AS"
+  bio              : "Postdoctoral fellow with NTN"
   location         : "US"
-  employer         :
+  employer         : "New York University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : asuliga@berkeley.edu
+  email            : a.suliga@nyu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
