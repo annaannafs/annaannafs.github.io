@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral fellow with the [Neutrino Network Fellowship](https://ntn.fnal.gov/) at the [Center for Cosmology and Particle Physics, New York University](https://cosmo.nyu.edu/), working with Prof. [Glennys Farrar](https://inspirehep.net/authors/1010333).
+I'm a postdoctoral fellow with the [Neutrino Network Fellowship](https://ntn.fnal.gov/) at the [Center for Cosmology and Particle Physics, New York University](https://cosmo.nyu.edu/), working with [Prof. Glennys Farrar](https://inspirehep.net/authors/1010333).
 
 
 My research is mainly focused on investigating the role of astrophysical neutrinos inside various stars, constraining astrophysical parameters, and discovering new physics with the neutrino signal from those sources.
