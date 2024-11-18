@@ -29,7 +29,7 @@ Invited talks:
     Talk at the workshop CETUP, Lead, South Dakota, USA, July 2024        
 25. [Strategies for detecting low-energy neutrino fluxes](1) <br/>
     Seminar, KEK Theory Center, Tskuba, Japan, June 2024    
-24. [Entanglement in three-flavor collective neutrino oscillations]() <br/>
+24. [Entanglement in three-flavor collective neutrino oscillations](https://agenda.hep.wisc.edu/event/2191/) <br/>
     Talk at the joint N3AS-iTHEMS Meeting on Quantum Information Science in Multimessenger Astrophysics, RIKEN, Wako, Japan, June 2024
 23. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics]() <br/>    
     Seminar at the New York University, USA, May 2024
@@ -43,13 +43,13 @@ Invited talks:
     Seminar at the Neutrino Seminar Series, Fermilab, Batavia, USA, January 2024
 18. [Strategies for detecting low-energy neutrino fluxes]() <br/>
     Seminar at the SLAC National Laboratory, Menlo Park, USA, November 2023
-17. [Probing self-interacting sterile neutrino dark matter]() <br/>
+17. [Probing self-interacting sterile neutrino dark matter](https://annaannafs.github.io/files/Suliga_MITP_V_2023.pdf) <br/>
     Talk at the MITP Workshop on interacting dark sectors, Germany (Virtual event), November 2023
 16. [Distinctive nuclear probes of low-energy atmospheric neutrinos]() <br/>
     Seminar at the Mitchell Institute Texas A&M University, College Station, USA, October 2023
-15. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics]() <br/>
+15. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://indico.sanfordlab.org/event/53/timetable/20230710) <br/>
     Conference talk, ”Astrophysical neutrinos and the origin of the elements”, Institute for Nuclear Theory, Seattle, USA, July 2023
-14. [Distinctive nuclear probes of low-energy atmospheric neutrinos]() <br/>
+14. [Distinctive nuclear probes of low-energy atmospheric neutrinos](https://indico.sanfordlab.org/event/53/timetable/20230710) <br/>
     Workshop talk, CETUP∗ 2023, the Institute for Underground Science at SURF, Lead USA, July 2023
 13. [Core-collapse supernovae as probes of not only non-standard neutrino physics](https://indico.mitp.uni-mainz.de/event/317/) <br/>
     Talk at the Workshop at the Mainz Institute for Theoretical Physics, Johannes Gutenberg University, Mainz, Germany, May 2023
