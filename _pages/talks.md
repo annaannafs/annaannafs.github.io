@@ -31,7 +31,7 @@ Invited talks:
     Seminar, KEK Theory Center, Tskuba, Japan, June 2024    
 24. [Entanglement in three-flavor collective neutrino oscillations](https://agenda.hep.wisc.edu/event/2191/) <br/>
     Talk at the joint N3AS-iTHEMS Meeting on Quantum Information Science in Multimessenger Astrophysics, RIKEN, Wako, Japan, June 2024
-23. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://physics.nyu.edu/videos.html?id=7158&year=0&) <br/>    
+23. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://physics.nyu.edu/videos.html?id=7158&year=0&)
     Seminar at the New York University, USA, May 2024
 22. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://particletheory.science.unimelb.edu.au/2024/02/26/anna-suliga-uc-berkeley/) <br/>
     Seminar at the University of Melbourne, Australia, April 2024
