@@ -21,7 +21,7 @@ Invited talks:
     Talk at the 2024 Division of Nucelar Physics APS Fall Meeting, Boston, USA, October 2024
 29. [Probing self-interacting sterile neutrino dark matter with the diffuse supernova neutrino background](https://indico.fnal.gov/event/63406/contributions/297915/attachments/181753/249336/Suliga.pdf) <br/>
     Talk at the NuFACT 2024, Argonne National Laboratory, USA, September 2024 
-28. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](1) <br/>
+28. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://indico-tdli.sjtu.edu.cn/event/2610/) <br/>
     Virtual Seminar, Tsung-Dao Lee Institute in Shanghai, China, August 2024
 27. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://app.icerm.brown.edu/assets/468/7303/7303_4630_Suliga_071120241400_Slides.pdf) <br/>
     Talk at the workshop Solving the Boltzmann Equation for Neutrino Transport in Relativistic Astrophysics, ICERM, Providence, USA, July 2024
@@ -31,21 +31,21 @@ Invited talks:
     Seminar, KEK Theory Center, Tskuba, Japan, June 2024    
 24. [Entanglement in three-flavor collective neutrino oscillations](https://agenda.hep.wisc.edu/event/2191/) <br/>
     Talk at the joint N3AS-iTHEMS Meeting on Quantum Information Science in Multimessenger Astrophysics, RIKEN, Wako, Japan, June 2024
-23. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics]() <br/>    
+23. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://physics.nyu.edu/videos.html?id=7158&year=0&) <br/>    
     Seminar at the New York University, USA, May 2024
-22. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics]() <br/>
+22. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://particletheory.science.unimelb.edu.au/2024/02/26/anna-suliga-uc-berkeley/) <br/>
     Seminar at the University of Melbourne, Australia, April 2024
-21. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics]() <br/>
+21. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://indico.triumf.ca/event/439/contributions/4952/) <br/>
     Plenary colloquium at the Workshop: Neutrinos cosmology and astrophysics, TRIUMF, Canada, March 2024
 20. [Strategies for detecting low-energy neutrino fluxes]() <br/>
     Seminar at the Lawrence Berkeley National Laboratory, Berkeley, February 2024
-19. [Strategies for detecting low-energy neutrino fluxes]() <br/>
+19. [Strategies for detecting low-energy neutrino fluxes](https://indico.fnal.gov/event/62595/) <br/>
     Seminar at the Neutrino Seminar Series, Fermilab, Batavia, USA, January 2024
-18. [Strategies for detecting low-energy neutrino fluxes]() <br/>
+18. [Strategies for detecting low-energy neutrino fluxes](https://theory.slac.stanford.edu/events/2023-10-24-strategies-detecting-low-energy-neutrino-fluxes-anna-suliga-ucsd) <br/>
     Seminar at the SLAC National Laboratory, Menlo Park, USA, November 2023
 17. [Probing self-interacting sterile neutrino dark matter](https://annaannafs.github.io/files/Suliga_MITP_V_2023.pdf) <br/>
     Talk at the MITP Workshop on interacting dark sectors, Germany (Virtual event), November 2023
-16. [Distinctive nuclear probes of low-energy atmospheric neutrinos]() <br/>
+16. [Distinctive nuclear probes of low-energy atmospheric neutrinos](https://physics.tamu.edu/events/tba-190/) <br/>
     Seminar at the Mitchell Institute Texas A&M University, College Station, USA, October 2023
 15. [Core-collapse supernovae as probes of (not only) non-standard neutrino physics](https://indico.sanfordlab.org/event/53/timetable/20230710) <br/>
     Conference talk, ”Astrophysical neutrinos and the origin of the elements”, Institute for Nuclear Theory, Seattle, USA, July 2023
