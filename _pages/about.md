@@ -20,9 +20,10 @@ In 2016, I obtained an engineering degree in Technical Physics at the [AGH Unive
 
 
 You can find short and easy-to-digest summaries of some of my works at the N3AS website: <br/>
-1. [Can diffuse supernova neutrino background detection reveal sterile neutrino secrets?](https://n3as.berkeley.edu/p/diffuse-supernova-background-secrets-2024/) <br/>
-2. [Quantifying Nuclear Structure Uncertainties in Dark Matter Direct Detection Experiments](https://n3as.berkeley.edu/p/nuclear-uncertainties-dark-matter-direct-detection/) <br/>
-3. [Signatures of the quark-hadron phase transition at neutrino detectors](https://n3as.berkeley.edu/p/sig-quark-hadron-phase-transition/) <br/>
-4. [Towards probing the diffuse supernova neutrino background in all flavors](https://n3as.berkeley.edu/p/probing-diffuse-supernova-neutrino-flavors/) <br/>
+1. [Lepton Number Violating Neutrino Self-Interactions Heat Up proto-Neutron Stars](https://n3as.berkeley.edu/p/lepton-violating-neutrino-self-interactions-heat-up/) <br/>
+2. [Can diffuse supernova neutrino background detection reveal sterile neutrino secrets?](https://n3as.berkeley.edu/p/diffuse-supernova-background-secrets-2024/) <br/>
+3. [Quantifying Nuclear Structure Uncertainties in Dark Matter Direct Detection Experiments](https://n3as.berkeley.edu/p/nuclear-uncertainties-dark-matter-direct-detection/) <br/>
+4. [Signatures of the quark-hadron phase transition at neutrino detectors](https://n3as.berkeley.edu/p/sig-quark-hadron-phase-transition/) <br/>
+5. [Towards probing the diffuse supernova neutrino background in all flavors](https://n3as.berkeley.edu/p/probing-diffuse-supernova-neutrino-flavors/) <br/>
 
 
