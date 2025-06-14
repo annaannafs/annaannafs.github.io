@@ -16,7 +16,12 @@ Upcoming talks:
 Invited talks:
 ======
 
-
+33. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://annaannafs.github.io/files/Suliga_UW_2025.pdf) <br/>
+    Particle Theory Seminar, Yale University, USA, April 2025
+32. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://annaannafs.github.io/files/Suliga_UW_2025.pdf) <br/>
+    NPAC Seminar, University of Wiscosnsin-Madison, Madison, USA, March 2025
+31. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://annaannafs.github.io/files/Suliga_Flab_2025.pdf) <br/>
+    Theory Seminar, Fermilab, Batavia, USA, March 2025
 30. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://meetings.aps.org/Meeting/DNP24/Session/P06) <br/>
     Talk at the 2024 Division of Nucelar Physics APS Fall Meeting, Boston, USA, October 2024
 29. [Probing self-interacting sterile neutrino dark matter with the diffuse supernova neutrino background](https://indico.fnal.gov/event/63406/contributions/297915/attachments/181753/249336/Suliga.pdf) <br/>

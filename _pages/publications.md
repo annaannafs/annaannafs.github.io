@@ -8,8 +8,7 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-20. Anna M. Suliga and George M. Fuller [Searching for MeV-mass neutrinophilic Dark Matter with Large Scale Dark Matter Detectors](https://inspirehep.net/literature/2854063), Phys.Rev.D 111, 063052
-(2025)
+20. Anna M. Suliga and George M. Fuller [Searching for MeV-mass neutrinophilic Dark Matter with Large Scale Dark Matter Detectors](https://inspirehep.net/literature/2854063), Phys.Rev.D 111, 063052 (2025)
 19. Pooja Siwach, A. Baha Balantekin,  Amol V. Patwardhan, Anna M. Suliga [Exploring entanglement and spectral split correlations in three-flavor collective neutrino oscillations](https://inspirehep.net/literature/2846754), Phys.Rev.D 111, 063038 (2025)
 18. Anna M. Suliga et al. [Non-conservation of Lepton Numbers in the Neutrino Sector Could Change the Prospects for Core Collapse Supernova Explosions](https://inspirehep.net/literature/2836619), Phys.Rev.Lett. accepted
 17. A. Baha Balantekin and Anna M. Suliga [On the properties of qudits](https://inspirehep.net/literature/2789188), Eur.Phys.J.A 60 (2024) 124
