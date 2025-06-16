@@ -26,7 +26,7 @@ Invited talks:
 33. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physics](https://annaannafs.github.io/files/Suliga_NCSU.pdf) <br/>
     Triangle Nuclear Theory Colloquium, North Carolina State University, USA, April 2025
 32. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://annaannafs.github.io/files/Suliga_UW_2025.pdf) <br/>
-    NPAC Seminar, University of Wiscosnsin-Madison, Madison, USA, March 2025
+    NPAC Seminar, University of Wisconsin-Madison, Madison, USA, March 2025
 31. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physics](https://annaannafs.github.io/files/Suliga_Flab_2025.pdf) <br/>
     Theory Seminar, Fermilab, Batavia, USA, March 2025
 30. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://meetings.aps.org/Meeting/DNP24/Session/P06) <br/>
