@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/CV-Anna-Suliga.pdf
 author_profile: true
 redirect_from:
   - /resume
-  - /files/CV_Anna_Suliga.pdf
 ---
 
 {% include base_path %}
