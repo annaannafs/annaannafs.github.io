@@ -15,12 +15,19 @@ Upcoming talks:
 
 Invited talks:
 ======
-
-33. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://annaannafs.github.io/files/Suliga_UW_2025.pdf) <br/>
+36. [Neutrino Self-Interactions in Supernovae](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+    Invited talk, CIPANP conference, University of Wisconsin-Madison, USA, June 2025
+35. [Neutrino Self-Interaction and Core-Collapse Supernovae](https://annaannafs.github.io/files/Suliga_Colorado_state.pdf) <br/>
+    Invited talk, NEAT workshop, Colorado State University, USA, May 2025
+35. [Neutrino Self-Interactions in Supernovae](https://annaannafs.github.io/files/Suliga_Mitchell_2025.pdf) <br/>
+    Invited talk, Mitchell Institute, Texas A&M, College Station, USA, May 2025
+34. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physics](https://annaannafs.github.io/files/Suliga_Yale.pdf) <br/>
     Particle Theory Seminar, Yale University, USA, April 2025
+33. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physics](https://annaannafs.github.io/files/Suliga_NCSU.pdf) <br/>
+    Triangle Nuclear Theory Colloquium, North Carolina State University, USA, April 2025
 32. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://annaannafs.github.io/files/Suliga_UW_2025.pdf) <br/>
     NPAC Seminar, University of Wiscosnsin-Madison, Madison, USA, March 2025
-31. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://annaannafs.github.io/files/Suliga_Flab_2025.pdf) <br/>
+31. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physics](https://annaannafs.github.io/files/Suliga_Flab_2025.pdf) <br/>
     Theory Seminar, Fermilab, Batavia, USA, March 2025
 30. [Sterile Neutrinos and the Neutrino Self-interaction in Supernovae](https://meetings.aps.org/Meeting/DNP24/Session/P06) <br/>
     Talk at the 2024 Division of Nucelar Physics APS Fall Meeting, Boston, USA, October 2024
