@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /files/CV_Anna_Suliga.pdf
 ---
 
 {% include base_path %}
