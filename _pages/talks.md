@@ -15,23 +15,25 @@ Upcoming talks:
 
 Invited talks:
 ======
-45. [Supernova Neutrinos Uncover Neutrino Properties and Decode New Physics](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+46. [Binary Neutron Star Mergers as Cosmic Ray Sources](https://annaannafs.github.io/files/Suliga_DEL_2026.pdf) <br/>
+    Seminar, University of Delaware, USA September 2026
+45. [Supernova Neutrinos Uncover Neutrino Properties and Decode New Physics](https://indico.global/event/15267/contributions/160486/attachments/75486/146419/PPC2026_Suliga.pdf) <br/>
     Plenary talk, XIX International Conference on Interconnections between Particle Physics and Cosmology, Australia September 2026
 44. Oscillation-independent probes of nonstandard neutrino interactions from supernovae <br/>
-    Workshop talk, CETUP, Lead, South Dakota, USA July 2026
+    Workshop talk - half chalk talk, CETUP, Lead, South Dakota, USA July 2026
 43. Oscillation-independent probes of nonstandard neutrino interactions from supernovae <br/>
     Chalk talk, Fermi National Laboratory, USA June 2026
-42. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physic](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+42. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physic](https://annaannafs.github.io/files/Suliga-Colloqium_Kent_2026.pdf) <br/>
     Physics Department Colloquium, Kent State University, USA April 2026
-41. [New Neutrino Interactions and Core-Collapse Supernovae](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+41. [New Neutrino Interactions and Core-Collapse Supernovae](https://annaannafs.github.io/files/Suliga_Queens_2026.pdf) <br/>
     Seminar talk, Queen’s University, Canada March 2026
-40. [New Neutrino Interactions in Supernovae](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+40. [New Neutrino Interactions in Supernovae](https://annaannafs.github.io/files/Suliga_WashU_2026.pdf) <br/>
     Seminar talk, Washington University in St. Louis, USA February 2026
-39. [Oscillation-Independent Probes of Neutrino Non-Standard Interactions from Supernova](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+39. [Oscillation-Independent Probes of Neutrino Non-Standard Interactions from Supernova](https://annaannafs.github.io/files/Suliga_CCA_2026.pdf) <br/>
     PACMAN talk, Center for Computational Astrophysics, USA, February 2026
-38. [Neutrino Self-Interactions in Supernovae](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+38. [Neutrino Self-Interactions in Supernovae](https://annaannafs.github.io/files/Suliga_OHIO_2025_DEC.pdf) <br/>
     Seminar talk, Ohio State University, USA, December 2025
-37. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physics](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+37. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physics](https://annaannafs.github.io/files/Suliga-NNN-2025.pdf) <br/>
     Plenary talk,24th International Workshop on Next Generation Nucleon Decay and Neutrino Detectors, SNOLAB, Canada, September 2025
 36. [Neutrino Self-Interactions in Supernovae](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
     Invited talk, CIPANP conference, University of Wisconsin-Madison, USA, June 2025
