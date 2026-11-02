@@ -15,6 +15,24 @@ Upcoming talks:
 
 Invited talks:
 ======
+45. [Supernova Neutrinos Uncover Neutrino Properties and Decode New Physics](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+    Plenary talk, XIX International Conference on Interconnections between Particle Physics and Cosmology, Australia September 2026
+44. Oscillation-independent probes of nonstandard neutrino interactions from supernovae <br/>
+    Workshop talk, CETUP, Lead, South Dakota, USA July 2026
+43. Oscillation-independent probes of nonstandard neutrino interactions from supernovae <br/>
+    Chalk talk, Fermi National Laboratory, USA June 2026
+42. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physic](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+    Physics Department Colloquium, Kent State University, USA April 2026
+41. [New Neutrino Interactions and Core-Collapse Supernovae](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+    Seminar talk, Queen’s University, Canada March 2026
+40. [New Neutrino Interactions in Supernovae](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+    Seminar talk, Washington University in St. Louis, USA February 2026
+39. [Oscillation-Independent Probes of Neutrino Non-Standard Interactions from Supernova](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+    PACMAN talk, Center for Computational Astrophysics, USA, February 2026
+38. [Neutrino Self-Interactions in Supernovae](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+    Seminar talk, Ohio State University, USA, December 2025
+37. [Astrophysical Neutrinos Uncover Neutrino Properties and Decode New Physics](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
+    Plenary talk,24th International Workshop on Next Generation Nucleon Decay and Neutrino Detectors, SNOLAB, Canada, September 2025
 36. [Neutrino Self-Interactions in Supernovae](https://annaannafs.github.io/files/Suliga_Madison.pdf) <br/>
     Invited talk, CIPANP conference, University of Wisconsin-Madison, USA, June 2025
 35. [Neutrino Self-Interaction and Core-Collapse Supernovae](https://annaannafs.github.io/files/Suliga_Colorado_state.pdf) <br/>
